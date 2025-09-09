@@ -87,16 +87,7 @@ AniFame provides **actionable insights** for anime studios:
 - Handling large datasets with **EDA visualization techniques**  
 - Model selection & evaluation with regression/classification metrics  
 
----
 
-## 👥 Contributions  
-- **Data Collection:** Jing Qiang & Jing Hua  
-- **Data Cleaning & Preprocessing:** Jing Qiang, Jing Hua, YinFeng  
-- **EDA & Visualization:** Jing Qiang & Jing Hua  
-- **Regression:** Jing Hua  
-- **Classification:** Jing Qiang  
-- **Presentation:** Jing Hua & Jing Qiang  
-- **Slides & Documentation:** Team  
 
 ---
 
