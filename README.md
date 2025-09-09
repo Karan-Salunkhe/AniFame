@@ -27,6 +27,8 @@ The project leverages **EDA + ML models** to answer:
 - Focus: *Movies* and *Ratings* datasets for prediction tasks  
 
 ---
+<img width="1127" height="1266" alt="image" src="https://github.com/user-attachments/assets/b7fc9fce-218e-4e83-af50-853bfad09353" />
+
 
 ## 🔬 Methodology & Pipeline  
 
