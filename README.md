@@ -81,7 +81,7 @@ AniFame provides **actionable insights** for anime studios:
 
 ---
 
-## 🧑‍💻 What We Learned  
+## 🧑‍💻 What I Learned  
 - API scraping & large-scale data collection  
 - JSON preprocessing & feature engineering  
 - Handling large datasets with **EDA visualization techniques**  
